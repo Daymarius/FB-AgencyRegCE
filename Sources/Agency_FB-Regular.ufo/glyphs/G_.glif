@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="G" format="1">
+  <advance width="430"/>
+  <unicode hex="0047"/>
+  <outline>
+    <contour>
+      <point x="370" y="54" type="line"/>
+      <point x="370" y="22"/>
+      <point x="348" y="0"/>
+      <point x="316" y="0" type="curve" smooth="yes"/>
+      <point x="115" y="0" type="line" smooth="yes"/>
+      <point x="83" y="0"/>
+      <point x="61" y="22"/>
+      <point x="61" y="54" type="curve" smooth="yes"/>
+      <point x="61" y="710" type="line" smooth="yes"/>
+      <point x="61" y="742"/>
+      <point x="83" y="764"/>
+      <point x="115" y="764" type="curve" smooth="yes"/>
+      <point x="316" y="764" type="line" smooth="yes"/>
+      <point x="348" y="764"/>
+      <point x="370" y="742"/>
+      <point x="370" y="710" type="curve" smooth="yes"/>
+      <point x="370" y="532" type="line"/>
+      <point x="302" y="532" type="line"/>
+      <point x="302" y="704" type="line"/>
+      <point x="129" y="704" type="line"/>
+      <point x="129" y="60" type="line"/>
+      <point x="302" y="60" type="line"/>
+      <point x="302" y="324" type="line"/>
+      <point x="220" y="324" type="line"/>
+      <point x="220" y="383" type="line"/>
+      <point x="370" y="383" type="line"/>
+    </contour>
+  </outline>
+</glyph>

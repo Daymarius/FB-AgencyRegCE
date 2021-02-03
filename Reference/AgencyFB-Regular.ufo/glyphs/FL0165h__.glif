@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="FL0165h" format="1">
+  <advance width="254"/>
+  <unicode hex="0165"/>
+  <outline>
+    <contour>
+      <point x="224" y="0" type="line"/>
+      <point x="224" y="57" type="line"/>
+      <point x="141" y="57" type="line"/>
+      <point x="141" y="418" type="line"/>
+      <point x="224" y="418" type="line"/>
+      <point x="224" y="475" type="line"/>
+      <point x="141" y="475" type="line"/>
+      <point x="141" y="623" type="line"/>
+      <point x="77" y="623" type="line"/>
+      <point x="77" y="475" type="line"/>
+      <point x="20" y="475" type="line"/>
+      <point x="20" y="418" type="line"/>
+      <point x="77" y="418" type="line"/>
+      <point x="77" y="55" type="line" smooth="yes"/>
+      <point x="77" y="18"/>
+      <point x="95" y="0"/>
+      <point x="132" y="0" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="277" y="764" type="line" name="hr01"/>
+      <point x="205" y="764" type="line"/>
+      <point x="187" y="524" type="line"/>
+      <point x="231" y="524" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr01">
+      <hstem pos="524" width="240" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ydieresis" format="1">
+  <advance width="390"/>
+  <unicode hex="0178"/>
+  <outline>
+    <contour>
+      <point x="368" y="760" type="line"/>
+      <point x="368" y="764" type="line"/>
+      <point x="300" y="764" type="line"/>
+      <point x="196" y="382" type="line"/>
+      <point x="91" y="764" type="line"/>
+      <point x="22" y="764" type="line"/>
+      <point x="22" y="760" type="line"/>
+      <point x="161" y="296" type="line"/>
+      <point x="161" y="0" type="line"/>
+      <point x="229" y="0" type="line"/>
+      <point x="229" y="296" type="line"/>
+    </contour>
+    <contour>
+      <point x="294" y="807" type="line" name="hr01"/>
+      <point x="294" y="881" type="line"/>
+      <point x="222" y="881" type="line"/>
+      <point x="222" y="807" type="line"/>
+    </contour>
+    <contour>
+      <point x="168" y="807" type="line"/>
+      <point x="168" y="881" type="line"/>
+      <point x="96" y="881" type="line"/>
+      <point x="96" y="807" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr01">
+      <hstem pos="807" width="74" />
+      <vstem pos="96" width="67" />
+      <vstem pos="294" width="-67" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Epsilontonos" format="1">
+  <advance width="395.25"/>
+  <unicode hex="0388"/>
+  <outline>
+    <component base="Epsilon"/>
+    <component base="tonos.case" xOffset="-232.20000000000002"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-15 21:14:45 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.30000000000000004</real>
+        <real>0.7117647058823527</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+      <key>public.markColor</key>
+      <string>1,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

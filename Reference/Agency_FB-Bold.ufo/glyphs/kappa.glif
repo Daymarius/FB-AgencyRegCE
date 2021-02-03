@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kappa" format="1">
+  <advance width="377.30000000000007"/>
+  <unicode hex="03BA"/>
+  <outline>
+    <contour>
+      <point x="369.5" y="0.0" type="line"/>
+      <point x="249.90000000000003" y="0.0" type="line"/>
+      <point x="151.75" y="226.25000000000003" type="line"/>
+      <point x="151.75" y="0.0" type="line"/>
+      <point x="40.400000000000006" y="0.0" type="line"/>
+      <point x="40.400000000000006" y="493.0" type="line"/>
+      <point x="151.75" y="493.0" type="line"/>
+      <point x="151.75" y="305.1" type="line"/>
+      <point x="240.45" y="493.0" type="line"/>
+      <point x="358.15" y="493.0" type="line"/>
+      <point x="358.15" y="491.0" type="line"/>
+      <point x="243.10000000000002" y="267.05" type="line"/>
+      <point x="369.5" y="2.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.30000000000000004</real>
+        <real>0.7117647058823527</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+      <key>public.markColor</key>
+      <string>1,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

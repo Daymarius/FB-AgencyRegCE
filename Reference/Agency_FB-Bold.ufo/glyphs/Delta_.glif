@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Delta" format="1">
+  <advance width="457.6"/>
+  <unicode hex="0394"/>
+  <outline>
+    <contour>
+      <point x="228.7" y="587.75" type="line"/>
+      <point x="129.75" y="0.0" type="line"/>
+      <point x="30.35" y="0.0" type="line"/>
+      <point x="30.35" y="68.1" type="line"/>
+      <point x="169.25" y="765.1" type="line"/>
+      <point x="289.8" y="765.1" type="line"/>
+      <point x="427.70000000000005" y="68.1" type="line"/>
+      <point x="427.70000000000005" y="0.0" type="line"/>
+      <point x="327.65000000000003" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="100.45" y="98.25" type="line"/>
+      <point x="362.45000000000005" y="98.25" type="line"/>
+      <point x="369.65000000000003" y="0.0" type="line"/>
+      <point x="90.55000000000001" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-15 21:14:45 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.30000000000000004</real>
+        <real>0.7117647058823527</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+      <key>public.markColor</key>
+      <string>1,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

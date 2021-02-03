@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gamma" format="1">
+  <advance width="388.85"/>
+  <unicode hex="03B3"/>
+  <outline>
+    <contour>
+      <point x="138.75" y="6.2" type="line"/>
+      <point x="138.75" y="-180.0" type="line"/>
+      <point x="250.10000000000002" y="-180.0" type="line"/>
+      <point x="250.10000000000002" y="6.2" type="line"/>
+      <point x="374.1" y="493.0" type="line"/>
+      <point x="260.05" y="493.0" type="line"/>
+      <point x="194.7" y="169.95000000000002" type="line"/>
+      <point x="129.9" y="493.0" type="line"/>
+      <point x="14.75" y="493.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.30000000000000004</real>
+        <real>0.7117647058823527</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+      <key>public.markColor</key>
+      <string>1,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

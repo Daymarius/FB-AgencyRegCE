@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Otilde" format="1">
+  <advance width="445"/>
+  <unicode hex="00D5"/>
+  <outline>
+    <contour>
+      <point x="384" y="54" type="curve"/>
+      <point x="384" y="710" type="line" smooth="yes"/>
+      <point x="384" y="742"/>
+      <point x="361" y="764"/>
+      <point x="329" y="764" type="curve" smooth="yes"/>
+      <point x="115" y="764" type="line" smooth="yes"/>
+      <point x="83" y="764"/>
+      <point x="61" y="742"/>
+      <point x="61" y="710" type="curve" smooth="yes"/>
+      <point x="61" y="54" type="line" smooth="yes"/>
+      <point x="61" y="22"/>
+      <point x="83" y="0"/>
+      <point x="115" y="0" type="curve" smooth="yes"/>
+      <point x="329" y="0" type="line" smooth="yes"/>
+      <point x="361" y="0"/>
+      <point x="384" y="22"/>
+    </contour>
+    <contour>
+      <point x="316" y="60" type="line"/>
+      <point x="129" y="60" type="line"/>
+      <point x="129" y="704" type="line"/>
+      <point x="316" y="704" type="line"/>
+    </contour>
+    <contour>
+      <point x="328" y="842" type="curve" name="hr01"/>
+      <point x="328" y="902" type="line"/>
+      <point x="276" y="902" type="line"/>
+      <point x="276" y="859" type="line"/>
+      <point x="187" y="895" type="line" smooth="yes"/>
+      <point x="174" y="900"/>
+      <point x="164" y="903"/>
+      <point x="152" y="903" type="curve" smooth="yes"/>
+      <point x="129" y="903"/>
+      <point x="116" y="890"/>
+      <point x="116" y="867" type="curve" smooth="yes"/>
+      <point x="116" y="807" type="line"/>
+      <point x="168" y="807" type="line"/>
+      <point x="168" y="850" type="line"/>
+      <point x="257" y="814" type="line" smooth="yes"/>
+      <point x="270" y="809"/>
+      <point x="280" y="806"/>
+      <point x="292" y="806" type="curve" smooth="yes"/>
+      <point x="315" y="806"/>
+      <point x="328" y="819"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr01">
+      <hstem pos="806" width="95" />
+      <vstem pos="116" width="53" />
+      <vstem pos="328" width="-53" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Edieresis" format="1">
+  <advance width="357"/>
+  <unicode hex="00CB"/>
+  <outline>
+    <contour>
+      <point x="312" y="0" type="line"/>
+      <point x="312" y="60" type="line"/>
+      <point x="129" y="60" type="line"/>
+      <point x="129" y="358" type="line"/>
+      <point x="293" y="358" type="line"/>
+      <point x="293" y="419" type="line"/>
+      <point x="129" y="419" type="line"/>
+      <point x="129" y="704" type="line"/>
+      <point x="309" y="704" type="line"/>
+      <point x="309" y="764" type="line"/>
+      <point x="61" y="764" type="line"/>
+      <point x="61" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="284" y="807" type="line" name="hr01"/>
+      <point x="284" y="881" type="line"/>
+      <point x="212" y="881" type="line"/>
+      <point x="212" y="807" type="line"/>
+    </contour>
+    <contour>
+      <point x="158" y="807" type="line"/>
+      <point x="158" y="881" type="line"/>
+      <point x="86" y="881" type="line"/>
+      <point x="86" y="807" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr01">
+      <hstem pos="807" width="74" />
+      <vstem pos="86" width="67" />
+      <vstem pos="284" width="-67" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

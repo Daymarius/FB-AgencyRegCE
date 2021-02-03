@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ydieresis" format="1">
+  <advance width="347"/>
+  <unicode hex="00FF"/>
+  <outline>
+    <contour>
+      <point x="321" y="475" type="line"/>
+      <point x="256" y="475" type="line"/>
+      <point x="174" y="101" type="line"/>
+      <point x="93" y="475" type="line"/>
+      <point x="26" y="475" type="line"/>
+      <point x="143" y="4" type="line"/>
+      <point x="95" y="-180" type="line"/>
+      <point x="159" y="-180" type="line"/>
+    </contour>
+    <contour>
+      <point x="273" y="517" type="line" name="hr01"/>
+      <point x="273" y="591" type="line"/>
+      <point x="201" y="591" type="line"/>
+      <point x="201" y="517" type="line"/>
+    </contour>
+    <contour>
+      <point x="147" y="517" type="line"/>
+      <point x="147" y="591" type="line"/>
+      <point x="75" y="591" type="line"/>
+      <point x="75" y="517" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr01">
+      <hstem pos="517" width="74" />
+      <vstem pos="75" width="67" />
+      <vstem pos="273" width="-67" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

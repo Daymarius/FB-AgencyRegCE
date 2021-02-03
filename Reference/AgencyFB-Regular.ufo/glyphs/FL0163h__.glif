@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="FL0163h" format="1">
+  <advance width="254"/>
+  <unicode hex="0163"/>
+  <outline>
+    <contour>
+      <point x="224" y="0" type="line"/>
+      <point x="224" y="57" type="line"/>
+      <point x="141" y="57" type="line"/>
+      <point x="141" y="418" type="line"/>
+      <point x="224" y="418" type="line"/>
+      <point x="224" y="475" type="line"/>
+      <point x="141" y="475" type="line"/>
+      <point x="141" y="623" type="line"/>
+      <point x="77" y="623" type="line"/>
+      <point x="77" y="475" type="line"/>
+      <point x="20" y="475" type="line"/>
+      <point x="20" y="418" type="line"/>
+      <point x="77" y="418" type="line"/>
+      <point x="77" y="55" type="line" smooth="yes"/>
+      <point x="77" y="18"/>
+      <point x="95" y="0"/>
+      <point x="132" y="0" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="174" y="-20" type="line"/>
+      <point x="98" y="-20" type="line"/>
+      <point x="84" y="-160" type="line"/>
+      <point x="131" y="-160" type="line"/>
+    </contour>
+  </outline>
+</glyph>

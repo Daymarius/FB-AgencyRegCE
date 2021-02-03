@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lambda" format="1">
+  <advance width="451.30000000000007"/>
+  <unicode hex="039B"/>
+  <outline>
+    <contour>
+      <point x="130.65" y="0.0" type="line"/>
+      <point x="18.400000000000002" y="0.0" type="line"/>
+      <point x="18.400000000000002" y="2.0" type="line"/>
+      <point x="165.65" y="765.1" type="line"/>
+      <point x="286.20000000000005" y="765.1" type="line"/>
+      <point x="432.90000000000003" y="2.0" type="line"/>
+      <point x="432.90000000000003" y="0.0" type="line"/>
+      <point x="319.55000000000007" y="0.0" type="line"/>
+      <point x="225.10000000000002" y="587.75" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-15 21:14:45 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.30000000000000004</real>
+        <real>0.7117647058823527</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+      <key>public.markColor</key>
+      <string>1,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

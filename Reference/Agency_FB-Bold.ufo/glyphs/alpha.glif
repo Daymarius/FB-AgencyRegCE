@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="alpha" format="1">
+  <advance width="408.05000000000007"/>
+  <unicode hex="03B1"/>
+  <outline>
+    <contour>
+      <point x="256.3" y="493.0" type="line"/>
+      <point x="256.3" y="475.5" type="line"/>
+      <point x="170.85000000000002" y="490.75" type="line" smooth="yes"/>
+      <point x="157.15" y="493.65000000000003"/>
+      <point x="141.4" y="495.1"/>
+      <point x="128.60000000000002" y="495.1" type="curve" smooth="yes"/>
+      <point x="73.0" y="495.1"/>
+      <point x="39.3" y="461.05"/>
+      <point x="39.3" y="403.40000000000003" type="curve" smooth="yes"/>
+      <point x="39.3" y="89.60000000000001" type="line" smooth="yes"/>
+      <point x="39.3" y="32.85"/>
+      <point x="73.0" y="-2.5500000000000003"/>
+      <point x="128.60000000000002" y="-2.5500000000000003" type="curve" smooth="yes"/>
+      <point x="141.4" y="-2.5500000000000003"/>
+      <point x="157.15" y="-0.20000000000000007"/>
+      <point x="170.85000000000002" y="2.25" type="curve" smooth="yes"/>
+      <point x="256.3" y="17.05" type="line"/>
+      <point x="256.3" y="0.0" type="line"/>
+      <point x="367.1" y="0.0" type="line"/>
+      <point x="367.1" y="493.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="184.75" y="402.1" type="curve" smooth="yes"/>
+      <point x="189.85000000000002" y="402.1"/>
+      <point x="200.0" y="402.1"/>
+      <point x="205.10000000000002" y="401.1" type="curve"/>
+      <point x="256.3" y="395.75" type="line"/>
+      <point x="256.3" y="96.35" type="line"/>
+      <point x="205.10000000000002" y="91.9" type="line"/>
+      <point x="200.0" y="90.9"/>
+      <point x="189.85000000000002" y="90.9"/>
+      <point x="184.75" y="90.9" type="curve" smooth="yes"/>
+      <point x="161.8" y="90.9"/>
+      <point x="150.10000000000002" y="104.35000000000001"/>
+      <point x="150.10000000000002" y="126.55000000000001" type="curve" smooth="yes"/>
+      <point x="150.10000000000002" y="366.45000000000005" type="line" smooth="yes"/>
+      <point x="150.10000000000002" y="388.65000000000003"/>
+      <point x="161.8" y="402.1"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.30000000000000004</real>
+        <real>0.7117647058823527</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+      <key>public.markColor</key>
+      <string>1,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ntilde" format="1">
+  <advance width="437"/>
+  <unicode hex="00D1"/>
+  <outline>
+    <contour>
+      <point x="376" y="0" type="line"/>
+      <point x="376" y="764" type="line"/>
+      <point x="312" y="764" type="line"/>
+      <point x="312" y="212" type="line"/>
+      <point x="112" y="764" type="line"/>
+      <point x="61" y="764" type="line"/>
+      <point x="61" y="0" type="line"/>
+      <point x="125" y="0" type="line"/>
+      <point x="125" y="562" type="line"/>
+      <point x="329" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="322" y="842" type="curve" name="hr01"/>
+      <point x="322" y="902" type="line"/>
+      <point x="270" y="902" type="line"/>
+      <point x="270" y="859" type="line"/>
+      <point x="181" y="895" type="line" smooth="yes"/>
+      <point x="168" y="900"/>
+      <point x="158" y="903"/>
+      <point x="146" y="903" type="curve" smooth="yes"/>
+      <point x="123" y="903"/>
+      <point x="110" y="890"/>
+      <point x="110" y="867" type="curve" smooth="yes"/>
+      <point x="110" y="807" type="line"/>
+      <point x="162" y="807" type="line"/>
+      <point x="162" y="850" type="line"/>
+      <point x="251" y="814" type="line" smooth="yes"/>
+      <point x="264" y="809"/>
+      <point x="274" y="806"/>
+      <point x="286" y="806" type="curve" smooth="yes"/>
+      <point x="309" y="806"/>
+      <point x="322" y="819"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr01">
+      <hstem pos="806" width="95" />
+      <vstem pos="110" width="53" />
+      <vstem pos="322" width="-53" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

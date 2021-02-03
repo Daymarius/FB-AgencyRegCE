@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iota" format="1">
+  <advance width="234.5"/>
+  <unicode hex="03B9"/>
+  <outline>
+    <contour>
+      <point x="213.05" y="0.0" type="line"/>
+      <point x="102.60000000000001" y="0.0" type="line" smooth="yes"/>
+      <point x="60.2" y="0.0"/>
+      <point x="40.400000000000006" y="19.8"/>
+      <point x="40.400000000000006" y="61.300000000000004" type="curve"/>
+      <point x="40.400000000000006" y="493.0" type="line"/>
+      <point x="151.20000000000002" y="493.0" type="line"/>
+      <point x="151.20000000000002" y="94.80000000000001" type="line"/>
+      <point x="213.05" y="94.80000000000001" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.30000000000000004</real>
+        <real>0.7117647058823527</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+      <key>public.markColor</key>
+      <string>1,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresistonos" format="1">
+  <advance width="482.6"/>
+  <unicode hex="0385"/>
+  <outline>
+    <contour>
+      <point x="406.35" y="526.0" type="line"/>
+      <point x="313.20000000000005" y="526.0" type="line"/>
+      <point x="313.20000000000005" y="617.55" type="line"/>
+      <point x="406.35" y="617.55" type="line"/>
+    </contour>
+    <contour>
+      <point x="169.4" y="526.0" type="line"/>
+      <point x="76.25" y="526.0" type="line"/>
+      <point x="76.25" y="617.55" type="line"/>
+      <point x="169.4" y="617.55" type="line"/>
+    </contour>
+    <contour>
+      <point x="320.0" y="655.2" type="line"/>
+      <point x="263.55000000000007" y="526.0" type="line"/>
+      <point x="187.5" y="526.0" type="line"/>
+      <point x="187.5" y="530.35" type="line"/>
+      <point x="187.5" y="659.0" type="line"/>
+      <point x="320.0" y="659.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.30000000000000004</real>
+        <real>0.7117647058823527</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+      <key>public.markColor</key>
+      <string>1,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

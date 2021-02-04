@@ -1,1 +1,44 @@
-# ==================================================# OpenType Features for AgencyFB -Regular# Generated on 2013-08-08 12:28:37# Updated 131024 KL# ==================================================	@ordn_digits = [zero one two three four five six seven eight nine];	@figures = [zero one two three four five six seven eight nine];	@salt_basic_off = [A M Y ampersand];	@salt_basic = [A.salt M.salt Y.salt ampersand.salt];	@ornm = [apple];		languagesystem DFLT dflt;	languagesystem latn dflt;		feature ordn { # Ordinals		sub @ordn_digits a' by ordfeminine;		sub @ordn_digits o' by ordmasculine;	} ordn;	feature liga { # Standard Ligatures		sub f f i by f_f_i;		sub f f l by f_f_l;		sub f f by f_f;		sub f i by fi;		sub f l by fl;	} liga;	feature ss01 { # salt_basic		lookup salt_basic { 			sub @salt_basic_off by @salt_basic;		} salt_basic;	} ss01;	feature salt { # Stylistic Alternates		lookup salt_basic;	} salt;	feature ornm { # Ornaments		sub bullet from @ornm;	} ornm;
+# ==================================================
+# OpenType Features for AgencyFB -Regular
+# Generated on 2013-08-08 12:28:37
+# Updated 200204 VR
+# ==================================================
+
+	@ordn_digits = [zero one two three four five six seven eight nine];
+	@figures = [zero one two three four five six seven eight nine];
+	@salt_basic_off = [A M Y ampersand Agrave Aacute Acircumflex Atilde Adieresis Aring Amacron Abreve Aogonek Ydieresis Yacute Ygrave Ycircumflex ];
+	@salt_basic = [A.salt M.salt Y.salt ampersand.salt Agrave.salt Aacute.salt Acircumflex.salt Atilde.salt Adieresis.salt Aring.salt Amacron.salt Abreve.salt Aogonek.salt Ydieresis.salt Yacute.salt Ygrave.salt Ycircumflex.salt ];
+	@ornm = [apple];
+
+	
+	languagesystem DFLT dflt;
+	languagesystem latn dflt;
+	
+
+	feature ordn { # Ordinals
+		sub @ordn_digits a' by ordfeminine;
+		sub @ordn_digits o' by ordmasculine;
+	} ordn;
+
+
+	feature liga { # Standard Ligatures
+		sub f f i by f_f_i;
+		sub f f l by f_f_l;
+		sub f f by f_f;
+		sub f i by fi;
+		sub f l by fl;
+	} liga;
+
+	feature ss01 { # salt_basic
+		lookup salt_basic { 
+			sub @salt_basic_off by @salt_basic;
+		} salt_basic;
+	} ss01;
+
+	feature salt { # Stylistic Alternates
+		lookup salt_basic;
+	} salt;
+
+	feature ornm { # Ornaments
+		sub bullet from @ornm;
+	} ornm;

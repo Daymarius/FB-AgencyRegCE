@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tonos" format="1">
+  <advance width="344.6"/>
+  <unicode hex="0384"/>
+  <outline>
+    <contour>
+      <point x="232.20000000000002" y="655.2" type="line"/>
+      <point x="154.55" y="526.0" type="line"/>
+      <point x="69.5" y="526.0" type="line"/>
+      <point x="69.5" y="530.35" type="line"/>
+      <point x="90.7" y="659.0" type="line"/>
+      <point x="232.20000000000002" y="659.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.30000000000000004</real>
+        <real>0.7117647058823527</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+      <key>public.markColor</key>
+      <string>1,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

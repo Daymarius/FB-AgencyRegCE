@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutecmb" format="2">
+  <anchor x="0" y="475" name="_top"/>
+  <outline>
+    <contour>
+      <point x="112.0" y="631.0" type="line"/>
+      <point x="-8.0" y="518.0" type="line"/>
+      <point x="-53.0" y="518.0" type="line"/>
+      <point x="-53.0" y="521.0" type="line"/>
+      <point x="20.0" y="633.0" type="line"/>
+      <point x="112.0" y="633.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

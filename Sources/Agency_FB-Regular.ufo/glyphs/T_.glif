@@ -1,7 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="T" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="T" format="2">
   <advance width="343"/>
   <unicode hex="0054"/>
+  <anchor x="171.5" y="0" name="bottom"/>
+  <anchor x="171.5" y="764" name="top"/>
   <outline>
     <contour>
       <point x="324" y="704" type="line"/>

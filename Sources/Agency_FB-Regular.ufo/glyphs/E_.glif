@@ -1,7 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="E" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="E" format="2">
   <advance width="357"/>
   <unicode hex="0045"/>
+  <anchor x="189" y="764" name="top"/>
+  <anchor x="178.5" y="0" name="bottom"/>
+  <anchor x="237" y="0" name="ogonek"/>
   <outline>
     <contour>
       <point x="312" y="0" type="line"/>

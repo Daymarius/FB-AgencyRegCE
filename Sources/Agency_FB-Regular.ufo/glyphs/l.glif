@@ -1,7 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="l" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="l" format="2">
   <advance width="178"/>
   <unicode hex="006C"/>
+  <anchor x="89.0" y="0" name="bottom"/>
+  <anchor x="89.0" y="764" name="top"/>
+  <anchor x="198" y="540" name="caron.vert"/>
   <outline>
     <contour>
       <point x="121" y="0" type="line"/>

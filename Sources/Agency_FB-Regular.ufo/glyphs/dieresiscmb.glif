@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscmb" format="2">
+  <anchor x="0" y="475" name="_top"/>
+  <outline>
+    <contour>
+      <point x="99.0" y="517.0" type="line"/>
+      <point x="27.0" y="517.0" type="line"/>
+      <point x="27.0" y="591.0" type="line"/>
+      <point x="99.0" y="591.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-27.0" y="517.0" type="line"/>
+      <point x="-99.0" y="517.0" type="line"/>
+      <point x="-99.0" y="591.0" type="line"/>
+      <point x="-27.0" y="591.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

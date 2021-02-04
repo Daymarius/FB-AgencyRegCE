@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ograve" format="1">
+  <advance width="477"/>
+  <unicode hex="00D2"/>
+  <outline>
+    <component base="O"/>
+    <component base="gravecmb" xOffset="239" yOffset="271"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+        <real>0.5</real>
+      </array>
+      <key>com.typenetwork.accentbuilder.locked</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

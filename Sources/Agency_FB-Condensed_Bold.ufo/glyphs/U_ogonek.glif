@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uogonek" format="2">
+  <advance width="439"/>
+  <outline>
+    <contour>
+      <point x="234" y="-40" type="curve" smooth="yes"/>
+      <point x="286" y="10" type="line"/>
+      <point x="349" y="10" type="line"/>
+      <point x="349" y="6" type="line"/>
+      <point x="270" y="-73" type="line"/>
+      <point x="270" y="-134" type="line"/>
+      <point x="387" y="-134" type="line"/>
+      <point x="387" y="-180" type="line"/>
+      <point x="254" y="-180" type="line" smooth="yes"/>
+      <point x="228" y="-180"/>
+      <point x="215" y="-167" name="inserted"/>
+      <point x="215" y="-141" type="curve" smooth="yes"/>
+      <point x="215" y="-84" type="line" smooth="yes"/>
+      <point x="215" y="-63"/>
+      <point x="221" y="-53"/>
+    </contour>
+    <component base="U"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typenetwork.accentbuilder.locked</key>
+      <false/>
+      <key>public.markColor</key>
+      <string>0,0,0,0.5</string>
+    </dict>
+  </lib>
+</glyph>

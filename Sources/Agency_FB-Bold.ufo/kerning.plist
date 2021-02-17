@@ -254,7 +254,7 @@
       <key>egrave</key>
       <integer>-21</integer>
       <key>iacute</key>
-      <integer>-21</integer>
+      <integer>-61</integer>
       <key>icircumflex</key>
       <integer>-10</integer>
       <key>idieresis</key>
@@ -322,6 +322,8 @@
       <integer>-23</integer>
       <key>hyphen</key>
       <integer>-37</integer>
+      <key>iacute</key>
+      <integer>-34</integer>
       <key>igrave</key>
       <integer>36</integer>
       <key>imacron</key>
@@ -2170,6 +2172,8 @@
       <integer>-11</integer>
       <key>hyphen</key>
       <integer>-24</integer>
+      <key>iacute</key>
+      <integer>-20</integer>
       <key>icircumflex</key>
       <integer>20</integer>
       <key>parenright</key>

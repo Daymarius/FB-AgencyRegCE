@@ -30,6 +30,8 @@
     <integer>-240</integer>
     <key>openTypeHheaLineGap</key>
     <integer>0</integer>
+    <key>openTypeNameCompatibleFullName</key>
+    <string>AgencyCE</string>
     <key>openTypeNameVersion</key>
     <string>Version 1.0</string>
     <key>openTypeOS2CodePageRanges</key>
@@ -116,7 +118,7 @@
     <key>postscriptFamilyOtherBlues</key>
     <array/>
     <key>postscriptFontName</key>
-    <string>AgencyFB-Bold</string>
+    <string>AgencyCE-Bold</string>
     <key>postscriptForceBold</key>
     <false/>
     <key>postscriptIsFixedPitch</key>

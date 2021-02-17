@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Aringacute.salt" format="2">
+  <advance width="466"/>
+  <outline>
+    <component base="Aring.salt"/>
+    <component base="acutecmb" xOffset="213" yOffset="516"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typenetwork.accentbuilder.locked</key>
+      <false/>
+      <key>public.markColor</key>
+      <string>0,0,0,0.5</string>
+    </dict>
+  </lib>
+</glyph>

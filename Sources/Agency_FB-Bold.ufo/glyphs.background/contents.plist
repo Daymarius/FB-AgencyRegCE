@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>Germandbls</key>
+    <string>G_ermandbls.glif</string>
+    <key>brevecmb</key>
+    <string>brevecmb.glif</string>
+    <key>commabelowcmb</key>
+    <string>commabelowcmb.glif</string>
+    <key>hungarumlautcmb</key>
+    <string>hungarumlautcmb.glif</string>
+    <key>tbar</key>
+    <string>tbar.glif</string>
+  </dict>
+</plist>
